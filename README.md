@@ -27,7 +27,7 @@ Passo 3 – Alterar o nome do personagem grande.
 
 Passo 4 – Alterar a descrição do personagem grande.
 
-
+![Foto da página](https://github.com/Poliana-llima/Ex_Selecao_X-Men/blob/main/Captura%20de%20tela%202023-10-02%20005418.png)
 
 
 

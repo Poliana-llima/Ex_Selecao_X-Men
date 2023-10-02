@@ -27,7 +27,7 @@ Passo 3 – Alterar o nome do personagem grande.
 
 Passo 4 – Alterar a descrição do personagem grande.
 
-![vídeo versão Smartephone](https://github.com/Poliana-llima/Ex_Selecao_X-Men/blob/main/Versao-celular.mp4)
+
 
 
 
